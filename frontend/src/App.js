@@ -24,7 +24,8 @@ function App() {
       title: {
         fontFamily: ["Montserrat Subrayada", "sans-serif"].join(","),
       },
-      fontFamily: ["Montserrat Alternates", "sans-serif"].join(","),
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
+      color: "#E2D1BF",
     },
   });
 
